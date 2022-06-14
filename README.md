@@ -7,7 +7,7 @@ This is a repo for the STAS object detection competition (2022/4). Below is the 
 
 **Tr_statistics.py**: Some statistics about our training images. 
 
-**color_deconvolution**: We aaply color deconvolution on our training images. 
+**color_deconvolution**: We aply color deconvolution on our training images. 
 
 **Preprocessing_for_YOLOv5.py**: We re-structure the data structure of our training set to fit the requirement of YOLOv5. On the other hand, one block in this script aims to extract the feature vectors, which design manually, of training images for the label clustering. 
 
