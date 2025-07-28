@@ -16,6 +16,3 @@ This is a repo for the STAS object detection competition (2022/4). Below is the 
 **label_clustering**: We do the label clustering here. 
 
 **label_clustering_autoencoder**: We tried another way for label clustering. Did not finish this though.
-
-
-import numpy as np
